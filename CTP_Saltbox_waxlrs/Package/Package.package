@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="b0d405f1-fdaa-4d5e-87e2-78f57906fc18" solutionId="b0d405f1-fdaa-4d5e-87e2-78f57906fc18" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="CTP_Saltbox_waxlrs">
+    <features>
+        <featureReference itemId="c2967d48-ac87-4a40-80c3-a259da5c96da" />
+    </features>
+</package>
