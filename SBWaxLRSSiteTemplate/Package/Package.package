@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2f9e2db4-9b81-4c98-8820-4fcad64fbbca" solutionId="81aa1746-20b0-4d4c-a072-1e3370fe3cef" resetWebServer="false" name="SBWaxLRSSiteTemplate" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7ed9b6b1-2de1-41d0-9d6a-08a32ef285cd" />
+    <featureReference itemId="209fc7d4-e5b4-45c6-8c47-ed774d688e47" />
+    <featureReference itemId="20c39567-7af6-40a4-a3dc-f74effbb4e42" />
+    <featureReference itemId="b0f42a30-9f2b-4a79-a71a-cb7ca32303f0" />
+  </features>
+</package>

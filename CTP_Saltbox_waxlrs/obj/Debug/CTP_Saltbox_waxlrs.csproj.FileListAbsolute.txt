@@ -1,0 +1,5 @@
+C:\saltbox\sp_waxlrs\CTP_Saltbox_waxlrs\bin\Debug\CTP_Saltbox_waxlrs.dll
+C:\saltbox\sp_waxlrs\CTP_Saltbox_waxlrs\bin\Debug\CTP_Saltbox_waxlrs.pdb
+C:\saltbox\sp_waxlrs\CTP_Saltbox_waxlrs\obj\Debug\CTP_Saltbox_waxlrs.csprojResolveAssemblyReference.cache
+C:\saltbox\sp_waxlrs\CTP_Saltbox_waxlrs\obj\Debug\CTP_Saltbox_waxlrs.dll
+C:\saltbox\sp_waxlrs\CTP_Saltbox_waxlrs\obj\Debug\CTP_Saltbox_waxlrs.pdb

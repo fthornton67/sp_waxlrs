@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Content Type Feature" Id="c2967d48-ac87-4a40-80c3-a259da5c96da" Scope="Web" Title="CTP_Saltbox_waxlrs Feature1">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="Verbs\Elements.xml" />
+    <ElementManifest Location="Actors\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Users (0x0100FBEEE6F0C500489B99CDA6BB16C398F7) -->
+  <ContentType ID="0x0100FBEEE6F0C500489B99CDA6BB16C398F700b71b694e74b24f3d932c5d0322835c10"
+               Name="CTP_Saltbox_waxlrs - Actors"
+               Group="Custom Content Types"
+               Description="My Content Type"
+               Inherits="TRUE"
+               Version="0">
+    <FieldRefs>
+    </FieldRefs>
+  </ContentType>
+</Elements>

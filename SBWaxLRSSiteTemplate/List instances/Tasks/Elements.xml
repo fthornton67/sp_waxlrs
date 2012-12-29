@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-a83e-497e-9ba0-7a5c597d0107}" TemplateType="107" Title="Tasks" Description="Use the Tasks list to keep track of work that you or your team needs to complete." Url="Lists/Tasks" CustomSchema="Files\Lists\Tasks\Schema.xml" HyperlinkBaseUrl="http://crvt11731:11110" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

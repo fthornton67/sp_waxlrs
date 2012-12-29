@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b0d405f1-fdaa-4d5e-87e2-78f57906fc18" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CTP_Saltbox_waxlrs.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CTP_Saltbox_waxlrs_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

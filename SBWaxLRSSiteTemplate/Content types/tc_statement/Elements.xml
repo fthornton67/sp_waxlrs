@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010109004DE5C01F559A91408885B3F52AD6C101" Name="tc_statement" Group="tc_ContentTypes" Description="Create a new basic page." Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/tc_statement" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{f75b09c5-e4fb-4e9d-ba17-634d595ef255}" Name="tc_actor" />
+			<FieldRef ID="{21cf478c-42b9-4496-8c3d-b93c9d1d932e}" Name="tc_context" />
+			<FieldRef ID="{039641ae-60e6-4a43-8663-f4b0db8336ff}" Name="tc_id" />
+			<FieldRef ID="{87b1135d-7502-4f37-8209-5842332b33b1}" Name="tc_object" Required="TRUE" />
+			<FieldRef ID="{c0b658f8-5d5c-40ca-ac04-629456ba6a0a}" Name="tc_result" />
+			<FieldRef ID="{ea9194bd-af01-4dff-9080-f7df20e177f4}" Name="tc_verb" Required="TRUE" />
+			<FieldRef ID="{babc6847-ed7d-489a-be02-463841b312c8}" Name="tc_voided" />
+			<FieldRef ID="{99c41159-9e2a-471e-ad84-0f3ecbe3956a}" Name="tc_timestamp" />
+			<FieldRef ID="{06d1a1be-8635-43b4-8673-7b8df646019f}" Name="tc_stored" />
+			<FieldRef ID="{d8501770-faae-40b6-b158-cbb1d734d125}" Name="tc_authority" />
+		</FieldRefs>
+		<DocumentTemplate TargetName="/_layouts/bpcf.aspx" />
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

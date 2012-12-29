@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Task (0x0108) -->
+  <Field ID="{30C3D21A-A7C9-410E-A896-82875475F697}" Name="ReviewStatus" DisplayName="Review Status" Type ="Choice" >
+    <CHOICES>
+      <CHOICE>Review Required</CHOICE>
+      <CHOICE>Review in Progress</CHOICE>
+      <CHOICE>Review Completed</CHOICE>
+    </CHOICES>
+  </Field>
+  <ContentType ID="0x010800067c4bc238ce48978131466e385c48fc"
+               Name="CTP_Saltbox_waxlrs - ContentType1"
+               Group="Custom Content Types"
+               Description="My Content Type"
+               Inherits="TRUE"
+               Version="0">
+    <FieldRefs>
+      <FieldRef ID="{30C3D21A-A7C9-410E-A896-82875475F697}"
+  Name="ReviewStatus" DisplayName="Review Status"  />
+    </FieldRefs>
+  </ContentType>
+</Elements>

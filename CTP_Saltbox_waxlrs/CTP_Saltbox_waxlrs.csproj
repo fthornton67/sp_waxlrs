@@ -52,12 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ContentType1\SharePointProjectItem.spdata">
-      <SharePointProjectItemId>{72b170de-fff2-4346-9d5a-252dcd016499}</SharePointProjectItemId>
-    </None>
-    <None Include="ContentType1\Elements.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="key.snk" />
     <None Include="Package\Package.package">
       <PackageId>{b0d405f1-fdaa-4d5e-87e2-78f57906fc18}</PackageId>
